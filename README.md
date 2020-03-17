@@ -1,7 +1,5 @@
 ![Image description](BrecLogo.png)
 
-# BREC
-
 BREC is an automated, bioinformatic and non-genome-specific solution based on the Marey maps method in order to provide local recombination rate estimates. Then, identify the chromatin boundaries along chromosomes. This functionality allows determinig the location of the peri/centromeric and telomeric regions known to present a reduced recombination rate in most genomes.
 
 # Installation
